@@ -24,15 +24,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dp/medium_322_coin_change.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dp/medium_221_maximal_square.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -104,11 +95,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily/hard_45_jump_game_ii.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -155,12 +155,13 @@
         <option value="$PROJECT_DIR$/dp/medium_526_beautiful_arrangement.py" />
         <option value="$PROJECT_DIR$/dp/medium_486_predict_the_winner.py" />
         <option value="$PROJECT_DIR$/daily/hard_45_jump_game_ii.py" />
+        <option value="$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="199" />
-    <option name="y" value="517" />
+    <option name="x" value="81" />
+    <option name="y" value="56" />
     <option name="width" value="1439" />
     <option name="height" value="1027" />
   </component>
@@ -349,18 +350,19 @@
       <option name="presentableId" value="Default" />
       <updated>1588414961349</updated>
       <workItem from="1588414962566" duration="18585000" />
-      <workItem from="1588564491340" duration="1015000" />
+      <workItem from="1588564491340" duration="1158000" />
+      <workItem from="1588644825107" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19600000" />
+    <option name="totallyTimeSpent" value="20158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="199" y="517" width="1439" height="1027" extended-state="0" />
+    <frame x="-126" y="476" width="1439" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25697923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -574,7 +576,14 @@
     <entry file="file://$PROJECT_DIR$/daily/hard_45_jump_game_ii.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
