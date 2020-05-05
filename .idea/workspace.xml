@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb6ef93-e933-4fc1-8d67-719fa6b6b7d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5385.coverage" NAME="medium_5385 Coverage Results" MODIFIED="1588431552674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$hard_5387.coverage" NAME="hard_5387 Coverage Results" MODIFIED="1588433451721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5402.coverage" NAME="medium_5402 Coverage Results" MODIFIED="1588476636793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_98_validate_binary_search_tree.coverage" NAME="medium_98_validate_binary_search_tree Coverage Results" MODIFIED="1588646689954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
     <SUITE FILE_PATH="coverage/leetcode_practice$easy_5384.coverage" NAME="easy_5384 Coverage Results" MODIFIED="1588430617048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$easy_5400.coverage" NAME="easy_5400 Coverage Results" MODIFIED="1588473833486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_338_counting_bits.coverage" NAME="medium_338_counting_bits Coverage Results" MODIFIED="1588488357873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp" />
@@ -107,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="355">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -160,8 +161,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
-    <option name="y" value="56" />
+    <option name="x" value="353" />
+    <option name="y" value="53" />
     <option name="width" value="1439" />
     <option name="height" value="1027" />
   </component>
@@ -218,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.medium_338_counting_bits">
+  <component name="RunManager" selected="Python.medium_98_validate_binary_search_tree">
     <configuration name="easy_5400" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,28 +234,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contest/easy_5400.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hard_5387" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contest/hard_5387.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,13 +308,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="medium_98_validate_binary_search_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.medium_98_validate_binary_search_tree" />
         <item itemvalue="Python.medium_338_counting_bits" />
         <item itemvalue="Python.medium_5402" />
         <item itemvalue="Python.medium_5401" />
         <item itemvalue="Python.easy_5400" />
-        <item itemvalue="Python.hard_5387" />
       </list>
     </recent_temporary>
   </component>
@@ -351,15 +352,15 @@
       <updated>1588414961349</updated>
       <workItem from="1588414962566" duration="18585000" />
       <workItem from="1588564491340" duration="1158000" />
-      <workItem from="1588644825107" duration="415000" />
+      <workItem from="1588644825107" duration="1064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20158000" />
+    <option name="totallyTimeSpent" value="20807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-126" y="476" width="1439" height="1027" extended-state="0" />
+    <frame x="353" y="53" width="1439" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25697923" />
@@ -367,7 +368,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -582,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="355">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>

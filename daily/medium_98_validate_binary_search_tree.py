@@ -11,14 +11,14 @@ class TreeNode:
 class Solution:
   def isValidBST(self, root: TreeNode) -> bool:
 
-    def helper(node, lower = float('-inf'), upper = float('inf')):
+    def helper(node, lower=float('-inf'), upper=float('inf')):
       if not node:
         return True
 
       val = node.val
+      print(val, lower, upper)
       if val <= lower or val >= upper:
         return False
-
       if not helper(node.right, val, upper):
         return False
       if not helper(node.left, lower, val):
@@ -26,3 +26,13 @@ class Solution:
       return True
 
     return helper(root)
+
+
+
+s = Solution()
+left = TreeNode(1)
+right = TreeNode(3)
+root = TreeNode(2)
+root.left = left
+root.right = right
+s.isValidBST(root)
