@@ -28,7 +28,6 @@ class Solution:
     return helper(root)
 
 
-
 s = Solution()
 left = TreeNode(1)
 right = TreeNode(3)
