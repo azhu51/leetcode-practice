@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eb6ef93-e933-4fc1-8d67-719fa6b6b7d2" name="Default Changelist" comment="" />
+    <list default="true" id="8eb6ef93-e933-4fc1-8d67-719fa6b6b7d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_interview/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/top_interview/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,109 +12,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leetcode_practice$medium_5401.coverage" NAME="medium_5401 Coverage Results" MODIFIED="1588474711607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5386.coverage" NAME="medium_5386 Coverage Results" MODIFIED="1588433181393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5417.coverage" NAME="medium_5417 Coverage Results" MODIFIED="1590290781847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$easy_string_344.coverage" NAME="easy_string_344 Coverage Results" MODIFIED="1590296174699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_array_268.coverage" NAME="easy_array_268 Coverage Results" MODIFIED="1590831853695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5414.coverage" NAME="medium_5414 Coverage Results" MODIFIED="1589686988924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$easy_5416.coverage" NAME="easy_5416 Coverage Results" MODIFIED="1590287939996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$hard_5387.coverage" NAME="hard_5387 Coverage Results" MODIFIED="1588433451721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$medium_5413.coverage" NAME="medium_5413 Coverage Results" MODIFIED="1589683966623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$medium_98_validate_binary_search_tree.coverage" NAME="medium_98_validate_binary_search_tree Coverage Results" MODIFIED="1588646689954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$easy_5404.coverage" NAME="easy_5404 Coverage Results" MODIFIED="1589078682165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$easy_5384.coverage" NAME="easy_5384 Coverage Results" MODIFIED="1588430617048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_dp_70.coverage" NAME="easy_dp_70 Coverage Results" MODIFIED="1590833693493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
     <SUITE FILE_PATH="coverage/leetcode_practice$hard_4_median_of_two_sorted_arrays.coverage" NAME="hard_4_median_of_two_sorted_arrays Coverage Results" MODIFIED="1590286496444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
     <SUITE FILE_PATH="coverage/leetcode_practice$easy_5400.coverage" NAME="easy_5400 Coverage Results" MODIFIED="1588473833486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5397.coverage" NAME="medium_5397 Coverage Results" MODIFIED="1589640662820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_math_171.coverage" NAME="easy_math_171 Coverage Results" MODIFIED="1590449100088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_bit_190.coverage" NAME="easy_bit_190 Coverage Results" MODIFIED="1590820461762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_120_triangle.coverage" NAME="medium_120_triangle Coverage Results" MODIFIED="1588419642140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp" />
     <SUITE FILE_PATH="coverage/leetcode_practice$test.coverage" NAME="test Coverage Results" MODIFIED="1589639652067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_practice$medium_5385.coverage" NAME="medium_5385 Coverage Results" MODIFIED="1588431552674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$easy_5412.coverage" NAME="easy_5412 Coverage Results" MODIFIED="1589683251040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_string_13.coverage" NAME="easy_string_13 Coverage Results" MODIFIED="1590496315227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5402.coverage" NAME="medium_5402 Coverage Results" MODIFIED="1588476636793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_5405.coverage" NAME="medium_5405 Coverage Results" MODIFIED="1589080342346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
     <SUITE FILE_PATH="coverage/leetcode_practice$easy_5396.coverage" NAME="easy_5396 Coverage Results" MODIFIED="1589640063759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_974_subarray_sums_divisible_by_k.coverage" NAME="medium_974_subarray_sums_divisible_by_k Coverage Results" MODIFIED="1590583345856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
     <SUITE FILE_PATH="coverage/leetcode_practice$medium_338_counting_bits.coverage" NAME="medium_338_counting_bits Coverage Results" MODIFIED="1588488357873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_5401.coverage" NAME="medium_5401 Coverage Results" MODIFIED="1588474711607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_string_344.coverage" NAME="easy_string_344 Coverage Results" MODIFIED="1590296174699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_array_122.coverage" NAME="easy_array_122 Coverage Results" MODIFIED="1590819748305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_5416.coverage" NAME="easy_5416 Coverage Results" MODIFIED="1590287939996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_string_125.coverage" NAME="easy_string_125 Coverage Results" MODIFIED="1590837373966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$hard_5387.coverage" NAME="hard_5387 Coverage Results" MODIFIED="1588433451721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_5413.coverage" NAME="medium_5413 Coverage Results" MODIFIED="1589683966623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_394_decode_string.coverage" NAME="medium_394_decode_string Coverage Results" MODIFIED="1590818287487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_array_350.coverage" NAME="easy_array_350 Coverage Results" MODIFIED="1590833853197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_98_validate_binary_search_tree.coverage" NAME="medium_98_validate_binary_search_tree Coverage Results" MODIFIED="1588646689954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_5404.coverage" NAME="easy_5404 Coverage Results" MODIFIED="1589078682165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_5384.coverage" NAME="easy_5384 Coverage Results" MODIFIED="1588430617048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_array_283.coverage" NAME="easy_array_283 Coverage Results" MODIFIED="1590497345144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_146_lru_cache.coverage" NAME="medium_146_lru_cache Coverage Results" MODIFIED="1590408327094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_5385.coverage" NAME="medium_5385 Coverage Results" MODIFIED="1588431552674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contest" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_math_326.coverage" NAME="easy_math_326 Coverage Results" MODIFIED="1590835869853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$medium_287_find_the_duplicate_number.coverage" NAME="medium_287_find_the_duplicate_number Coverage Results" MODIFIED="1590496263884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daily" />
+    <SUITE FILE_PATH="coverage/leetcode_practice$easy_array_66.coverage" NAME="easy_array_66 Coverage Results" MODIFIED="1590836804272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/top_interview" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contest/medium_5398.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contest/medium_5417.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contest/medium_5418.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contest/hard_5419.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top_interview/easy_list_237.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" lean-forward="true" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top_interview/easy_tree_108.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top_interview/easy_string_344.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="27" selection-start-line="1" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top_interview/easy_list_206.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/top_interview/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="634">
+                <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
               </first_editor>
               <second_editor />
             </state>
@@ -119,10 +65,82 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top_interview/easy_tree_104.py">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_string_125.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="225">
+              <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_string_387.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_array_66.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_math_326.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_dp_198.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="48" lean-forward="true" selection-start-column="2" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_array_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_array_350.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_linklist_141.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top_interview/easy_array_88.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -147,47 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/contest/easy_5384.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5385.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5386.py" />
-        <option value="$PROJECT_DIR$/contest/hard_5387.py" />
-        <option value="$PROJECT_DIR$/contest/easy_5400.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5401.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5402.py" />
-        <option value="$PROJECT_DIR$/contest/hard_5403.py" />
-        <option value="$PROJECT_DIR$/daily/easy_53_maximum_subarray.py" />
-        <option value="$PROJECT_DIR$/dp/medium_338_counting_bits.py" />
-        <option value="$PROJECT_DIR$/dp/hard_329_longest_increasing_path_in_a_matrix.py" />
-        <option value="$PROJECT_DIR$/dp/medium_322_coin_change.py" />
-        <option value="$PROJECT_DIR$/dp/medium_221_maximal_square.py" />
-        <option value="$PROJECT_DIR$/dp/medium_576_out_of_boundary_paths.py" />
-        <option value="$PROJECT_DIR$/dp/medium_91_decode_ways.py" />
-        <option value="$PROJECT_DIR$/dp/medium_264_ugly_number_ii.py" />
-        <option value="$PROJECT_DIR$/dp/hard_115_distinct_subsequences.py" />
-        <option value="$PROJECT_DIR$/dp/hard_132_palindrome_partitioning_ii.py" />
-        <option value="$PROJECT_DIR$/dp/medium_526_beautiful_arrangement.py" />
-        <option value="$PROJECT_DIR$/dp/medium_486_predict_the_winner.py" />
-        <option value="$PROJECT_DIR$/daily/hard_45_jump_game_ii.py" />
-        <option value="$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py" />
-        <option value="$PROJECT_DIR$/daily/medium_983_minimum_cost_for_tickets.py" />
-        <option value="$PROJECT_DIR$/top_interview/easy_237.py" />
-        <option value="$PROJECT_DIR$/daily/easy_572_subtree_of_another_tree.py" />
-        <option value="$PROJECT_DIR$/contest/easy_5404.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5405.py" />
-        <option value="$PROJECT_DIR$/daily/hard_25_reverse_nodes_in_k_group.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/contest/easy_5396.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5397.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5398.py" />
-        <option value="$PROJECT_DIR$/contest/hard_5399.py" />
-        <option value="$PROJECT_DIR$/contest/easy_5412.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5413.py" />
-        <option value="$PROJECT_DIR$/contest/medium_5414.py" />
-        <option value="$PROJECT_DIR$/contest/hard_5415.py" />
-        <option value="$PROJECT_DIR$/daily/medium_210_course_schedule_ii.py" />
-        <option value="$PROJECT_DIR$/daily/medium_152_maximum_product_subarray.py" />
-        <option value="$PROJECT_DIR$/daily/easy_680_valid_palindrome_ii.py" />
-        <option value="$PROJECT_DIR$/daily/hard_4_median_of_two_sorted_arrays.py" />
         <option value="$PROJECT_DIR$/contest/easy_5416.py" />
         <option value="$PROJECT_DIR$/contest/medium_5417.py" />
         <option value="$PROJECT_DIR$/contest/medium_5418.py" />
@@ -197,15 +174,56 @@
         <option value="$PROJECT_DIR$/top_interview/easy_tree_108.py" />
         <option value="$PROJECT_DIR$/top_interview/easy_string_344.py" />
         <option value="$PROJECT_DIR$/top_interview/easy_list_206.py" />
+        <option value="$PROJECT_DIR$/daily/medium_146_lru_cache.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_bit_136.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_math_171.py" />
+        <option value="$PROJECT_DIR$/daily/medium_287_find_the_duplicate_number.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_bit_191.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_math_118.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_dp_118.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_math_412.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_169.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_list_21.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_string_13.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_283.py" />
+        <option value="$PROJECT_DIR$/daily/medium_974_subarray_sums_divisible_by_k.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_math_202.py" />
+        <option value="$PROJECT_DIR$/daily/medium_394_decode_string.py" />
+        <option value="$PROJECT_DIR$/daily/hard_84_largest_rectangle_in_histogram.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_122.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_string_242.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_bit_190.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_268.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_38.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_math_371.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_bit_371.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_linklist_160.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_design_155.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_121.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_dp_121.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_217.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_dp_53.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_tree_101.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_26.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_dp_70.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_1.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_350.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_linklist_141.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_88.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_math_326.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_dp_198.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_string_387.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_array_66.py" />
+        <option value="$PROJECT_DIR$/top_interview/easy_string_125.py" />
         <option value="$PROJECT_DIR$/top_interview/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="151" />
-    <option name="y" value="23" />
+    <option name="x" value="127" />
+    <option name="y" value="28" />
     <option name="width" value="1439" />
-    <option name="height" value="971" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -219,6 +237,11 @@
             <path>
               <item name="leetcode-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="contest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-practice" type="b2602c69:ProjectViewProjectNode" />
@@ -255,30 +278,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.easy_string_344">
-    <configuration name="easy_5416" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contest/easy_5416.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="easy_string_344" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.easy_string_125">
+    <configuration name="easy_array_350" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +292,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top_interview/easy_string_344.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top_interview/easy_array_350.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hard_4_median_of_two_sorted_arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="easy_array_66" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,12 +309,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top_interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily/hard_4_median_of_two_sorted_arrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top_interview/easy_array_66.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="medium_5414" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="easy_dp_70" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,12 +331,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top_interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contest/medium_5414.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top_interview/easy_dp_70.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +345,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="medium_5417" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="easy_math_326" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,12 +353,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top_interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contest/medium_5417.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top_interview/easy_math_326.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="easy_string_125" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top_interview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top_interview/easy_string_125.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,11 +391,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.easy_string_344" />
-        <item itemvalue="Python.medium_5417" />
-        <item itemvalue="Python.easy_5416" />
-        <item itemvalue="Python.hard_4_median_of_two_sorted_arrays" />
-        <item itemvalue="Python.medium_5414" />
+        <item itemvalue="Python.easy_string_125" />
+        <item itemvalue="Python.easy_array_66" />
+        <item itemvalue="Python.easy_math_326" />
+        <item itemvalue="Python.easy_array_350" />
+        <item itemvalue="Python.easy_dp_70" />
       </list>
     </recent_temporary>
   </component>
@@ -392,23 +415,25 @@
       <workItem from="1588860976071" duration="3898000" />
       <workItem from="1589614701036" duration="11449000" />
       <workItem from="1589886733153" duration="875000" />
-      <workItem from="1590285617096" duration="8788000" />
+      <workItem from="1590285617096" duration="9706000" />
+      <workItem from="1590406063827" duration="12606000" />
+      <workItem from="1590669601174" duration="16994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48533000" />
+    <option name="totallyTimeSpent" value="79051000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="151" y="23" width="1439" height="971" extended-state="0" />
+    <frame x="127" y="28" width="1439" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27129564" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27845383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35039818" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21189189" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,331 +456,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dp/medium_300_longest_increasing_subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/hard_354_russian_doll_envelopes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_338_counting_bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/hard_329_longest_increasing_path_in_a_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_322_coin_change.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_221_maximal_square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_576_out_of_boundary_paths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_91_decode_ways.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_264_ugly_number_ii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/hard_115_distinct_subsequences.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/hard_132_palindrome_partitioning_ii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_526_beautiful_arrangement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dp/medium_486_predict_the_winner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/hard_45_jump_game_ii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/medium_98_validate_binary_search_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/medium_983_minimum_cost_for_tickets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/easy_572_subtree_of_another_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/easy_53_maximum_subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/hard_25_reverse_nodes_in_k_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/hard_5399.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/easy_5412.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/easy_5384.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="61" lean-forward="true" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/easy_5396.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/easy_5400.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/easy_5404.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/hard_5387.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5385.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5386.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5397.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/hard_5415.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="e#120#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/medium_210_course_schedule_ii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#57#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/medium_152_maximum_product_subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5402.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/easy_680_valid_palindrome_ii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily/hard_4_median_of_two_sorted_arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/easy_5416.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5414.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5413.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5405.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5401.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5398.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5417.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contest/medium_5418.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contest/hard_5419.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top_interview/easy_list_206.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -766,10 +470,248 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/contest/medium_5398.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/medium_5414.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/medium_5418.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/easy_5416.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/medium_5402.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contest/medium_5417.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily/medium_146_lru_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_list_206.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_math_171.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="60" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily/medium_287_find_the_duplicate_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_bit_191.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily/medium_974_subarray_sums_divisible_by_k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_string_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="29" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/top_interview/easy_string_344.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="27" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_169.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_string_412.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="39" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_math_202.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily/medium_394_decode_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily/hard_84_largest_rectangle_in_histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_string_242.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_bit_190.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_268.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_283.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_bit_136.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_list_21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_122.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_38.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_bit_371.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" lean-forward="true" selection-start-column="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_linklist_160.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_design_155.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_217.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_dp_118.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_dp_121.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_dp_53.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_tree_108.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
@@ -780,18 +722,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top_interview/easy_tree_108.py">
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_tree_101.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_dp_70.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_350.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_linklist_141.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_88.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_math_326.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_dp_198.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="38" selection-end-line="1" />
+          <caret column="48" lean-forward="true" selection-start-column="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_string_387.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_array_66.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_interview/easy_string_125.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/top_interview/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor relative-caret-position="634">
+            <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
           </first_editor>
           <second_editor />
         </state>
