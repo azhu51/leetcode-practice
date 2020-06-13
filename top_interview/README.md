@@ -149,3 +149,25 @@ https://leetcode-cn.com/problems/permutations/
 
 medium_array_22:
 https://leetcode-cn.com/problems/generate-parentheses/
+
+medium_array_289:
+https://leetcode-cn.com/problems/game-of-life/
+
+medium_tree_94:
+https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
+
+medium_tree_230:
+https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
+
+medium_array_238:
+https://leetcode-cn.com/problems/product-of-array-except-self/
+
+medium_array_48:
+https://leetcode-cn.com/problems/rotate-image/
+
+medium_string_131:
+https://leetcode-cn.com/problems/palindrome-partitioning/
+
+medium_design_208:
+https://leetcode-cn.com/problems/implement-trie-prefix-tree/
+
